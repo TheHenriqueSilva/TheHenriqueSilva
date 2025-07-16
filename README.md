@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
-## Olá! Eu sou o Henrique Silva
+<p align="center"> <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> Hey there! I'm Henrique Silva</h1> </p>
 
 
-Profissional de Tecnologia da Informação com 4 anos de experiência, atuando nas áreas de service desk, suporte técnico, análise de dados e gestão de demandas.
+Information Technology professional with 4 years of experience, working in service desk, technical support, data analysis, and demand management.
 
-Atualmente, estou em transição de carreira com foco em desenvolvimento e ciência de dados. Tenho conhecimentos sólidos em SQL e estou aprofundando minhas habilidades em Python para aplicações em análise de dados, automação de processos e desenvolvimento de soluções eficientes.
+Currently transitioning my career with a focus on development and data science. I have a solid knowledge of SQL and am deepening my skills in Python for applications in data analysis, process automation, and the development of efficient solutions.
 
 
 
